@@ -13,7 +13,6 @@ header {
   background-image: url("img/Background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 655.62;
   opacity: 1;
   color: white;
   flex-direction: column;
@@ -28,7 +27,6 @@ nav {
   margin-right: 125px;
   margin-top: 108px;
   opacity: 1;
-  border: 93b5b3 5px solid;
   justify-content: flex-end;
 }
 
@@ -229,7 +227,6 @@ footer h1 {
 
   nav {
     opacity: 1;
-    border: 93b5b3 5px solid;
     margin: 20px;
     padding-top: 80px;
   }
@@ -244,6 +241,7 @@ footer h1 {
     height: 162px;
     align-self: flex-end;
     margin-right: 20px;
+    margin-bottom: -35px;
   }
 
   h1 {
