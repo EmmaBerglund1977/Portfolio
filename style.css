@@ -91,7 +91,7 @@ h2 {
   letter-spacing: 0;
 }
 
-h4 {
+h3 {
   background-color: #f1d6ab;
   display: inline;
   padding: 0px;
@@ -251,7 +251,7 @@ footer h1 {
   h2 {
     font-size: 24px;
   }
-  h4 {
+  h3 {
     font-size: 11px;
     margin-right: 10px;
   }
@@ -264,8 +264,6 @@ footer h1 {
   .tech,
   .projects,
   .skills {
-    /* flex-wrap: wrap; */
-    padding: 58px 36.5px;
   }
 
   p {
@@ -280,7 +278,6 @@ footer h1 {
   section h2,
   .box-container p,
   li p {
-    /* margin-bottom: 38px; */
     font-size: 17px;
   }
 
